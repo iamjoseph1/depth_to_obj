@@ -1,5 +1,5 @@
 # depth_to_obj
-Reconstruction of 3D Environment in Image for Collicion Check
+Reconstruction of 3D Environment in Image for Collision Check
 
 Installation
 1. ros-noetic
